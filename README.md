@@ -6,6 +6,7 @@ Web-portfolio
 <a href="https://apipostuchaneva.herokuapp.com/user/login" target="_blunk">Итоговое задание для экзамена на Heroku</a> <br>
 <h4><a href="https://kodaktor.ru/g/bots" target="_blunk">Задание Создание бота на Node.js</a></h4> <br>
 <a href="https://kodaktor.ru/test_04bc7" target="_blunk">Бот на Node.js</a> <br>
+<a href="https://dialogflow.cloud.google.com/#/agent/909b8518-279b-4573-8930-513957921a8a/training" target="_blunk">Бот dialogflow</a> <br>
 <h4><a href="https://kodaktor.ru/scorm" target="_blunk">Задание Создание скорм-пакета</a></h4> <br>
 <a href="https://uchaneva.moodlecloud.com/mod/scorm/view.php?id=11" target="_blunk">Создание скорм-пакета</a> <br>
 <h4><a href="https://kodaktor.ru/g/websockets_lab" target="_blunk">Задание Websockets</a></h4> <br>
