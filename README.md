@@ -5,7 +5,7 @@ Web-portfolio
 <a href="https://github.com/Nastyauch/apiPost_express_mongodb" target="_blunk">Итоговое задание для экзамена на github</a> <br>
 <a href="https://apipostuchaneva.herokuapp.com/user/login" target="_blunk">Итоговое задание для экзамена на Heroku</a> <br>
 <h4><a href="https://kodaktor.ru/g/bots" target="_blunk">Задание Создание бота на Node.js</a></h4> <br>
-# https://kodaktor.ru/test_04bc7
+<a href="https://kodaktor.ru/test_04bc7" target="_blunk">бот для skype на Node.js</a> <br>
 <a href="https://github.com/Nastyauch/vkbot/tree/master" target="_blunk">код бота для вк на Node.js</a> <br>
 <a href="https://vk.com/im?peers=535177513_513704208_c99_94915974&sel=-139280745" target="_blunk">бот вк</a> <br>
 <a href="https://dialogflow.cloud.google.com/#/agent/909b8518-279b-4573-8930-513957921a8a/training" target="_blunk">Бот dialogflow</a> <br>
