@@ -8,7 +8,6 @@ Web-portfolio
 <a href="https://kodaktor.ru/test_04bc7" target="_blunk">бот для skype на Node.js</a> <br>
 <a href="https://github.com/Nastyauch/vkbot/tree/master" target="_blunk">код бота для вк на Node.js</a> <br>
 <a href="https://vk.com/public139280745" target="_blunk">бот вк</a> <br>
-<a href="https://dialogflow.cloud.google.com/#/agent/909b8518-279b-4573-8930-513957921a8a/training" target="_blunk">Бот dialogflow (приложение)</a> <br>
 <a href="https://kodaktor.ru/test_0c2d2" target="_blunk">Бот dialogflow</a> <br>
 <h4><a href="https://kodaktor.ru/scorm" target="_blunk">Задание Создание скорм-пакета</a></h4> <br>
 <a href="https://uchaneva.moodlecloud.com/mod/scorm/view.php?id=11" target="_blunk">Создание скорм-пакета</a> <br>
