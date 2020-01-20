@@ -11,6 +11,8 @@ Web-portfolio
 <a href="https://kodaktor.ru/test_0c2d2" target="_blunk">Бот dialogflow</a> <br>
 <h4><a href="https://kodaktor.ru/scorm" target="_blunk">Задание Создание скорм-пакета</a></h4> <br>
 <a href="https://uchaneva.moodlecloud.com/mod/scorm/view.php?id=11" target="_blunk">Создание скорм-пакета</a> <br>
+<p> student: login:student password:student </p>
+<p> teacher: login:teacher password:teacher </p>
 <h4><a href="https://kodaktor.ru/g/websockets_lab" target="_blunk">Задание Websockets</a></h4> <br>
 <a href="https://github.com/Nastyauch/ws" target="_blunk"> Websockets на github</a> <br>
 <h4><a href="https://kodaktor.ru/g/public09092019" target="_blunk">Задание publicSecret</a></h4> <br>
