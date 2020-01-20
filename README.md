@@ -13,3 +13,5 @@ Web-portfolio
 <a href="https://uchaneva.moodlecloud.com/mod/scorm/view.php?id=11" target="_blunk">Создание скорм-пакета</a> <br>
 <h4><a href="https://kodaktor.ru/g/websockets_lab" target="_blunk">Задание Websockets</a></h4> <br>
 <a href="https://github.com/Nastyauch/ws" target="_blunk"> Websockets на github</a> <br>
+<h4><a href="https://kodaktor.ru/g/public09092019" target="_blunk">Задание publicSecret</a></h4> <br>
+<a href="https://github.com/Nastyauch/publicSecret" target="_blunk"> publicSecret на github</a> <br>
